@@ -28,3 +28,8 @@ Logname: Application
 EntryType: Information
 Source: CheckLogFiles
 Message: The word/sentence '$SearchString' not found in the LogFiles in $LogFolderPath.
+
+# Changelog
+
+## [1.0] 3 April 2018
+Initial creation
